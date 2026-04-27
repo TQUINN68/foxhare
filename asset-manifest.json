@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/foxhare/static/css/main.57347fcd.css",
-    "main.js": "/foxhare/static/js/main.fe31fade.js",
+    "main.css": "/foxhare/static/css/main.be3748d3.css",
+    "main.js": "/foxhare/static/js/main.d1f3c79e.js",
     "static/js/453.696d549d.chunk.js": "/foxhare/static/js/453.696d549d.chunk.js",
     "index.html": "/foxhare/index.html",
-    "main.57347fcd.css.map": "/foxhare/static/css/main.57347fcd.css.map",
-    "main.fe31fade.js.map": "/foxhare/static/js/main.fe31fade.js.map",
+    "main.be3748d3.css.map": "/foxhare/static/css/main.be3748d3.css.map",
+    "main.d1f3c79e.js.map": "/foxhare/static/js/main.d1f3c79e.js.map",
     "453.696d549d.chunk.js.map": "/foxhare/static/js/453.696d549d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57347fcd.css",
-    "static/js/main.fe31fade.js"
+    "static/css/main.be3748d3.css",
+    "static/js/main.d1f3c79e.js"
   ]
 }
